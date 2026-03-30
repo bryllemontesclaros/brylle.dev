@@ -1,28 +1,25 @@
-# Brylle Montesclaros — Portfolio
+# Brylle Montesclaros Portfolio
 
-Personal portfolio site for Brylle Montesclaros, Wix SEO Specialist and AI Tool Builder based in Taguig, Philippines.
+Professional portfolio — Wix SEO Specialist & AI Tool Builder.
 
-## Stack
+Deploy to GitHub Pages or Vercel.
 
-- Plain HTML + CSS (no framework, no build step)
-- Google Fonts — DM Serif Display, DM Mono, Outfit
-- Deployed on Vercel
-
-## Structure
-
-```
-portfolio/
-├── index.html        # Main HTML
-├── css/
-│   └── style.css     # All styles
-├── .gitignore
-└── README.md
-```
+## Files
+- `index.html` - Main page
+- `style.css` - Styles
+- `README.md` - This file
 
 ## Deploy
 
-Push to GitHub → Import on Vercel → Done. No config needed.
+### GitHub Pages
+1. Push to GitHub
+2. Settings → Pages → Source: main
+3. Live at username.github.io/brylle-portfolio
 
-## Contact
+### Vercel
+1. Import repo
+2. Deploy (1 click)
 
-montesclarosbrylle@gmail.com
+---
+
+Brylle Montesclaros
